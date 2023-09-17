@@ -1,3 +1,4 @@
+
 import { pipeline } from "@xenova/transformers"
 
 import { transcriptionExample } from "./utils/transcription.js"
